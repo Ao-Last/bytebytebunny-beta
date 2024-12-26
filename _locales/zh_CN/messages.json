@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "ByteByteBunny",
+    "description": "扩展名称"
+  },
+  "extShortName": {
+    "message": "BBBunny",
+    "description": "扩展简称"
+  },
+  "extDescription": {
+    "message": "你的 LeetCode 刷题助手，记录每一步学习历程",
+    "description": "扩展描述"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "ByteByteBunny",
+    "description": "Extension name"
+  },
+  "extShortName": {
+    "message": "BBBunny",
+    "description": "Extension short name"
+  },
+  "extDescription": {
+    "message": "Your LeetCode companion - Track and record your coding progress",
+    "description": "Extension description"
+  }
+}
