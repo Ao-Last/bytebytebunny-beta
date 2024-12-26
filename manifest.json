@@ -4,7 +4,7 @@
   "short_name": "__MSG_extShortName__",
   "default_locale": "en",
   "homepage_url": "https://github.com/Ao-Last/bytebytebunny-beta",
-  "version": "",
+  "version": "0.0.1-beta.202412260239",
   "description": "__MSG_extDescription__",
   "icons": {
     "16": "icons/ver1/icon16.png",
